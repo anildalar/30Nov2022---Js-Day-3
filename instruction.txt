@@ -110,4 +110,4 @@ Ctrl + ` = Open terminal
 Associativity of the operator
 
 
-Core Js == Pure Js == Vanila Javascript == NodeJs
+Plain Js == Core Js == Pure Js == Vanila Javascript == NodeJs
