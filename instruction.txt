@@ -1,0 +1,113 @@
+Web Development
+
+1. Fontend Dev (ClientSide)
+			1.1 HTML (Structure)
+			1.2 CSS   (Designing/ Presentation)
+			1.3 JS    ( Behaviour/Logic )
+2. Backend Dev  (ServerSide)
+			2.1  NodeJs
+
+
+Js is clientside and Serverside Scripting langauge
+
+The Official Name of Javascript is ECMA-262/ECMA Script
+
+ECMA (European Computer Manufacturers Association))
+
+Netscape --->  ECMA
+
+
+Where you can write the JS Code ?
+
+1. Before the closig of Head tag
+2. Before the closing of Body tag
+3. External
+
+How to log/Display the javascript code
+1. Console.log
+
+There are 2 ways to path/address
+
+1. Relative Path/Address
+			
+		. = current directory
+2. Absoulte Address
+		http/https
+
+http = hypertext transfer protocol
+https = hypertext transfer protocol secure
+
+Anything which is terminated by a semi-colon is called
+Statement
+
+
+// is called a JS Comment
+
+What are variables?
+
+Variable are like containers/Bucket which hold some items/data in memory
+
+I can perform any arithmetic Operation with Javscript.
+
+Addition
+Subtration
+Multiplaiton
+Divison
+
+
+Arithmetic Operators
++
+/
+* mul
+-
+
+How we can create a file using VIM editor (Vi = Visual Editor)
+
+Vi (Old)
+Vim (New) (Advanced Editor)
+
+There are 2 Modes
+
+1. Command Mode (Esc)
+2. Insert Mode   ( i )
+
+
+<start>Content Area</end>
+innerHTML referes to Content Area
+innerHTML = Content Area
+
+What are keywords ?
+
+Keywords are some english words which are reserverd for a programing langague
+
+
+ Left Operand +  Right Operand
+
+   a + b
+
+
+
+IF you are learning JS mean you are leaning NodeJs as well
+
+https://nodejs.org
+
+Window + R = Run
+
+cmd  = Command Prompt
+
+node -v
+
+v = version
+
+++variable = Pre increment operator
+
+variable++ = Post incmrent operator
+
+Ctrl + ` = Open terminal
+ 
+
+
+Associativity of the operator
+
+
+Core Js == Pure Js == Vanila Javascript == NodeJs
